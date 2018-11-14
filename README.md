@@ -42,9 +42,6 @@ The easiest way to use these samples without using Git is to download the zip fi
 
 If you clone the application, run **git clone <repository-url>** to clone the repository.
 
-**To use the Syncfusion Essential JSP samples, Syncfusion license key should be registered in SyncfusionLicense.txt file. Refer [this](https://www.syncfusion.com/kb/9002?utm_source=github&utm_medium=listing) link for more information.**
-
-
 
 **Reminder:** If you unzip individual samples, they will not build due to references to other portions of the ZIP file that were not unzipped. You must unzip the entire archive if you intend to build the samples.
 
