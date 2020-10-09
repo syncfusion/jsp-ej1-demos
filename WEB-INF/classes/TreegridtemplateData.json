@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Windows",
+        "DateModified": "06/26/2017",
+        "Type": "File Folder",
+        "DateCreated": "06/16/2017",
+        "Children": [
+            {
+                "Name": "Users",
+                "DateModified": "06/26/2017",
+                "Type": "File Folder",
+                "DateCreated": "06/16/2017",
+                "Children": [
+                    {
+                        "Name": "Public",
+                        "DateModified": "06/26/2017",
+                        "Type": "File Folder",
+                        "DateCreated": "06/16/2017",
+                        "Children": [
+                            {
+                                "Name": "Documents ",
+                                "DateModified": "06/26/2017",
+                                "Type": "File Folder",
+                                "DateCreated": "06/16/2017",
+                                "Children": [
+                                    {
+                                        "Name": "Document 1",
+                                        "DateModified": "06/26/2017",
+                                        "Type": "HTML document",
+                                        "DateCreated": "06/16/2017"
+                                    },
+                                    {
+                                        "Name": "Document 2",
+                                        "DateModified": "06/26/2017",
+                                        "Type": "HTML document",
+                                        "DateCreated":"06/16/2017"
+                                    },
+                                    {
+                                        "Name": "Document 3",
+                                        "DateModified": "06/26/2017",
+                                        "Type": "HTML document",
+                                        "DateCreated": "06/16/2017"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
